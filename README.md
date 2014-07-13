@@ -1,3 +1,18 @@
+**A small fork**
+
+Be warned!
+
+This fork adds two things:
+
+- Updates the podspec to allow use from OS X apps (with no changes to the code, so it mightn't work).
+- Support for the non-standard `COPY` verb.
+
+I don't keep this repo up to date with the main repo, as I only need the
+changes for acceptance tests.
+
+And so back to the original readme.
+
+
 # Unirest for Objective-C [![Build Status](https://api.travis-ci.org/Mashape/unirest-obj-c.png)](https://travis-ci.org/Mashape/unirest-obj-c)
 
 Unirest is a set of lightweight HTTP libraries available in multiple languages, ideal for most applications:
